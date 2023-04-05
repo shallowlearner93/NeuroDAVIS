@@ -9,11 +9,11 @@ Machine Intelligence Unit, Indian Statistical Institute, 203 Barrackpore Trunk R
 
 E-mail: chayanmath25@gmail.com
 
-Dibyendu Bikash Seal
+Dibyendu B. Seal
 
-A. K. Choudhury School of Information Technology, University of Calcutta, JD - II, Sector III, Salt Lake City, Kolkata 700106, India
+Tatras Data Services Pvt. Ltd.,E64, Vasant Marg, Vasant Vihar, New Delhi - 110057, India.
 
-E-mail: dbsakc@caluniv.ac.in
+E-mail: dibyendu.b@tatrasdata.com
 
 Rajat K. De
 
